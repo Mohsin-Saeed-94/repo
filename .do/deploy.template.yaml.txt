@@ -1,0 +1,7 @@
+spec:
+ name: php-yaml
+ services:
+ - name: web
+   git:
+     branch: main
+     repo_clone_url: https://github.com/Mohsin-Saeed-94/php.git  
